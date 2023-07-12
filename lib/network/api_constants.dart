@@ -1,5 +1,5 @@
-const String BASE_URL = "http://familyuniformapp.medicalworld.com.mm/api/";
-const String BASE_URL_HTTP = "familyuniformapp.medicalworld.com.mm";
+const String BASE_URL = "http://familyuniform.com/api/";
+const String BASE_URL_HTTP = "familyuniform.com";
 const String ITEM_ID = "";
 
 /// End points
